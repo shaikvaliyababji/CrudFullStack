@@ -1,7 +1,7 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
 
-const API = "http://localhost:2024/products/";
+const API = "http://localhost:2030/products/";
 
 const ProductList = () => {
     const [products, setProducts] = useState([]);
