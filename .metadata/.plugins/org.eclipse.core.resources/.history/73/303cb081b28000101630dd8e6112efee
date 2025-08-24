@@ -1,0 +1,25 @@
+package com.crud.klef.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.crud.klef.entity.Product;
+import com.crud.klef.repository.jparepository;
+
+@Service
+public class productservice {
+	
+	@Autowired
+	private jparepository repo;
+	
+	public Product saveProduct(Product product)
+	{
+		return repo.save(product);
+	}
+
+	public Product getproduct() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

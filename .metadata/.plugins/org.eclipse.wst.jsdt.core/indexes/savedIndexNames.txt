@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\shaik valiya babji\OneDrive\Documents\kl pdfs\3rd year\odd\cicd\own pojects\crud\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3298698336.index
+1361176915.index
+2234665642.index
+2204012301.index
+3715986535.index
+1024712992.index

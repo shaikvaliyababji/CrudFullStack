@@ -1,0 +1,18 @@
+package com.crud.klef.service;
+
+import org.springframework.stereotype.Service;
+
+import com.crud.klef.entity.Product;
+import com.crud.klef.repository.jparepository;
+
+@Service
+public class productservice {
+	
+	private jparepository repo;
+	
+	public Product saveProduct(Product product)
+	{
+		return repo.save(product);
+	}
+
+}

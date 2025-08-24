@@ -1,0 +1,13 @@
+package com.crud.klef.service;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class productservice {
+	
+	public Product saveProduct(Product product)
+	{
+		
+	}
+
+}

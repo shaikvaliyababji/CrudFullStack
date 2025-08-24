@@ -1,0 +1,9 @@
+package com.crud.klef.entity;
+
+import jakarta.persistence.Entity;
+
+@Entity
+public class Product {
+         
+    private long\ id;
+}

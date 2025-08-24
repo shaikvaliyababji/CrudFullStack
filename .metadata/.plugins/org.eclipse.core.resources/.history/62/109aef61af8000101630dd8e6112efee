@@ -1,0 +1,6 @@
+package com.crud.klef.repository;
+
+@re
+public interface jparepository {
+
+}
