@@ -36,7 +36,7 @@ const ProductList = () => {
     const handleAdd = async (e) => {
         e.preventDefault();
         try {
-            await axios.post("http://localhost:2024/products/add", form);
+            await axios.post("http://localhost:2030/crudbackend/products/add", form);
             setForm({ name: "", price: "" });
             fetchProducts();
         } catch (err) {
