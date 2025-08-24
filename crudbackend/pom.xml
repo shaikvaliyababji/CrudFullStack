@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.crud.klef</groupId>
 	<artifactId>crudbackend</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	
 	<packaging>war</packaging>
 	<name>crudbackend</name>
 	<description>Demo project for Spring Boot</description>
