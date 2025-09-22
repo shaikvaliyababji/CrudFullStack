@@ -1088,3 +1088,24 @@
 2025-08-24 21:55:14,273 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2025-08-24 21:55:14,280 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2025-08-24 21:55:14,283 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shaik valiya babji\OneDrive\Documents\kl pdfs\3rd year\odd\cicd\own pojects\crud\crudbackend\src\test\resources
+2025-09-21 11:34:28,871 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-09-21 11:34:50,952 [Worker-4: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.crud.klef:crudbackend:3.5.5 @ C:\Users\shaik valiya babji\OneDrive\Documents\kl pdfs\3rd year\odd\cicd\own pojects\crud\crudbackend\pom.xml.
+2025-09-21 11:34:54,893 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-21 11:34:54,957 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-21 11:34:54,977 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shaik valiya babji\OneDrive\Documents\kl pdfs\3rd year\odd\cicd\own pojects\crud\crudbackend\src\test\resources
+2025-09-21 11:39:30,256 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.zapkart:ecommerce-backend:0.0.1-SNAPSHOT @ D:\zepkart chaithu\Zapkart-Backend\pom.xml.
+2025-09-21 11:39:37,711 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecommerce-backend/src/main/java
+2025-09-21 11:39:37,728 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ecommerce-backend/src/main/resources
+2025-09-21 11:39:37,793 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ecommerce-backend/src/main/resources
+2025-09-21 11:39:37,836 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecommerce-backend/src/test/java
+2025-09-21 11:39:37,839 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ecommerce-backend/src/test/resources
+2025-09-21 11:39:40,895 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 15 sec
+2025-09-21 11:39:48,554 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-21 11:39:48,673 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 99 resources from src\main\resources to target\classes
+2025-09-21 11:39:49,408 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\zepkart chaithu\Zapkart-Backend\src\test\resources
+2025-09-21 11:41:50,311 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-21 11:41:50,693 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-21 11:41:50,754 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shaik valiya babji\OneDrive\Documents\kl pdfs\3rd year\odd\cicd\own pojects\crud\crudbackend\src\test\resources
+2025-09-21 11:41:53,553 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-21 11:41:53,743 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-21 11:41:53,845 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shaik valiya babji\OneDrive\Documents\kl pdfs\3rd year\odd\cicd\own pojects\crud\crudbackend\src\test\resources

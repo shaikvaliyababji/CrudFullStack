@@ -1,7 +1,8 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
 
-const API = "http://localhost:2030/crudbackend/products/";
+const BASE_URL = import.meta.env.VITE_API_BASE_URL || "http://localhost:2030";
+const API = `${BASE_URL}/crudbackend/products/`;
 
 const ProductList = () => {
     const [products, setProducts] = useState([]);
@@ -36,7 +37,7 @@ const ProductList = () => {
     const handleAdd = async (e) => {
         e.preventDefault();
         try {
-            await axios.post("http://localhost:2030/crudbackend/products/add", form);
+            await axios.post(`${API}add`, form);
             setForm({ name: "", price: "" });
             fetchProducts();
         } catch (err) {
